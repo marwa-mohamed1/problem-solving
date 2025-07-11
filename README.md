@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/marwa-mohamed1/problem-solving/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/marwa-mohamed1/problem-solving/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/marwa-mohamed1/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
